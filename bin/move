@@ -10,4 +10,3 @@ input = gets.strip
 
 display_board(board)
 input_to_index(index)
-move(board, index, player = "X")
