@@ -11,6 +11,7 @@ end
 
 def input_to_index(input)
 index = gets.to_i - 1
+return index
 end
 
 
